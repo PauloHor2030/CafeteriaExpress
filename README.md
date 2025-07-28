@@ -68,17 +68,12 @@ O projeto se apoia em três pilares:
 ## Licença
 Este projeto está sob a licença MIT.  
 Sinta-se à vontade para contribuir e inovar junto conosco!
-
+# Nosso Contato: 11.98077.1968 Paulo Hor
 ---
 
 > **"Café Aroma: quando a tecnologia encontra a tradição para criar um café que tem história, terroir e propósito."**
 
 ---
-
-## Como contribuir
-Quer contribuir? Abra um **Pull Request** ou entre em contato!  
-
-
 
 ### Imagem 01 - DER 01
 ![](IMG/Diagrama-Entidade-Relacionamento-Versao02.png)
