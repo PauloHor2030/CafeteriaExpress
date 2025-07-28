@@ -75,19 +75,25 @@ Sinta-se à vontade para contribuir e inovar junto conosco!
 
 ---
 
-### Imagem 01 - DER 01
+### Imagem 01 - DER 01 
+Primeira idéia das Entidades Relacionamento.
 ![Evolução DER 1/5](IMG/Diagrama-Entidade-Relacionamento-Versao02.png)
 
 ### Imagem 02 - DER 02
+Aprimorando o DER.
 ![Evolução DER 2/5](IMG/Diagrama-Entidade-Relacionamento-Versao02.png)
 
 ### Imagem 03 - DER 03
+Complementando as demais entidades e os seus respectivos atributos
 ![Evolução DER 3/5](IMG/Diagrama-Entidade-Relacionamento-Versao03.png)
 
 ### Imagem 04 - DER 04
+Criando as demais entidades com as chaves primárias e as chaves 
 ![Evolução DER 4/5](IMG/Diagrama-Entidade-Relacionamento-Versao04.png)
 
+
 ### Imagem 05 - DER 05
+Versão finalidades das entidades relacionamento,com as chaves primárias e estrangeiras especificadas.
 ![Evolução DER 5/5](IMG/Diagrama-Entidade-Relacionamento-Versao05.png)
 
 ### Imagem 06 - MER 01/2
