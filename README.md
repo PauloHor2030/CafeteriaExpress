@@ -22,10 +22,10 @@ O projeto se apoia em três pilares:
   Controle rigoroso desde a escolha das mudas até a torra, garantindo rastreabilidade total.
 
 - **Uso de Dados e Inovação**  
-  Implementação de sensores para monitoramento de clima e solo, com apoio de banco de dados e dashboards inteligentes para tomada de decisão.
+  Implementação de sensores para monitoramento de clima e solo, com apoio de banco de dados e dashboards inteligentes para tomada de decisão para replicar novas áreas produtivas no futuro.
 
 - **Desenvolvimento Local**  
-  Capacitar produtores e criar uma rede de valor envolvendo pequenos agricultores e consumidores conscientes.
+  Capacitar produtores e criar uma rede de valor envolvendo pequenos agricultores e consumidores conscientes, baseado em Data Science do talhão experimental.
 
 ---
 
