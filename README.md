@@ -76,19 +76,29 @@ Sinta-se à vontade para contribuir e inovar junto conosco!
 ---
 
 ### Imagem 01 - DER 01
-![](IMG/Diagrama-Entidade-Relacionamento-Versao02.png)
+![Evolução DER 1/5](IMG/Diagrama-Entidade-Relacionamento-Versao02.png)
 
 ### Imagem 02 - DER 02
-![]()
+![Evolução DER 2/5](IMG/Diagrama-Entidade-Relacionamento-Versao02.png)
 
 ### Imagem 03 - DER 03
-![]()
+![Evolução DER 3/5](IMG/Diagrama-Entidade-Relacionamento-Versao03.png)
 
 ### Imagem 04 - DER 04
-![]()
+![Evolução DER 4/5](IMG/Diagrama-Entidade-Relacionamento-Versao04.png)
 
 ### Imagem 05 - DER 05
-![]()
+![Evolução DER 5/5](IMG/Diagrama-Entidade-Relacionamento-Versao05.png)
+
+### Imagem 06 - MER 01/2
+![Evolução MER 1/3](IMG/Modelo-Entidade-Relacionamento-Parte1.png)
+
+### Imagem 07 - MER 02/2
+![Evolução MER 2/3](IMG/Modelo-Entidade-Relacionamento-Parte2.png)
+
+### Imagem 08 - MER Completo
+![Evolução MER Completo](IMG/Modelo-Entidade-Relacionamento-Completo.png)
+
 
 
 
